@@ -1,29 +1,16 @@
-README.md
-Alberto Rivera
-MLND Capstone Proposal
-January 23, 2016
+# Machine Learning Engineer Nanodegree
+# Capstone Project
+## Project: Vehicle Detection in Video
 
-This readme provides all the location for the resources necessary for my MLND Capstone proposal.
+### Install
 
-Vehicle images 
-https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip
+This project requires **Python 2.3** allong with some libraries including OpenCV and scikit-learn 
 
+### Code
 
-Non-vehicle images
-https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip
+All of the project code is contained in the Capstone.ipynb file. Be aware that to run the project you must have the necesary libraries installed and the 'vehicle' and 'non-vehicle' folders from the image database in the same directory. Please refer to the MLNDCapstoneReport.pdf for further information.
 
+### Run
 
-Source video:
-Note that we only use the last 201 frames for the project
-https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/project_video.mp4
-
-
-This project also uses the following python libraries:
-
-matplotlib
-numpy
-cv2 (OpenCV)
-sklearn (sci-kit learn)
-VideoFileClip
-HTML 
+The project can be run from the notebook by running all the cell at once or one at a time pressing [shift] + [enter]
 
