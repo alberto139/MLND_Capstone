@@ -4,7 +4,7 @@
 
 ### Install
 
-This project requires **Python 2.3** allong with some libraries including OpenCV and scikit-learn 
+This project requires **Python 3** allong with some libraries including **OpenCV** and **scikit-learn** 
 
 ### Code
 
